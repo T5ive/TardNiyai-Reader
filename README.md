@@ -1,6 +1,6 @@
 ## Installation 
 
-[Click Here](https://github.com/T5ive/TardNiyai-Reader/raw/master/Tard%20Niyai%20Reader%20CSS.user.js) TardNiyai CSS </br>
+[TardNiyai CSS](https://github.com/T5ive/TardNiyai-Reader/raw/master/Tard%20Niyai%20Reader%20CSS.user.js)</br>
 And </br>
-[Click Here](https://github.com/T5ive/TardNiyai-Reader/raw/master/Tard%20Niyai%20Reader.user.js) TardNiyai Reader </br>
+[TardNiyai Reader](https://github.com/T5ive/TardNiyai-Reader/raw/master/Tard%20Niyai%20Reader.user.js)</br>
 _(Required Tampermonkey/Greasemonkey plugin running)_
