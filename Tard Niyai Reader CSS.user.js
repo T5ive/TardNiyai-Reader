@@ -9,14 +9,21 @@
 function getDivs(){
     return Array.from(document.getElementsByClassName('col-md-9'))
 }
+function getContent(){
+   return Array.from(Array.from(document.getElementsByClassName('novel-content-text')))
+}
 
 function a () {
-    let premiumDivs = getDivs();
-    if (!premiumDivs.length){
+    let myDivs = getDivs();
+    let myDivs2 = getContent();
+    if (!myDivs.length){
         setTimeout(a, 2000);
     } else {
-        premiumDivs.forEach(function(element) {
+        myDivs.forEach(function(element) {
             element.className = 'col-md-20';
+        });
+        myDivs2.forEach(function(element) {
+             element.style.backgroundImage="url('nothing')"
         });
     }
 }
