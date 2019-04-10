@@ -2,7 +2,7 @@
 // @name     Tard Niyai Reader CSS
 // @author   TFive
 // @include  https://www.tard-niyai.com/read/*
-// @version  1
+// @version  1.2
 // @run-at document-idle
 // ==/UserScript==
 
